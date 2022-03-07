@@ -51,4 +51,5 @@ tornado==6.1
 traitlets==5.1.1
 typing_extensions==4.0.1
 wcwidth==0.2.5
+xgboost==1.5.2
 xlrd==2.0.1
